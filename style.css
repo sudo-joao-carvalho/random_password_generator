@@ -37,3 +37,19 @@ input{
 input::placeholder{
     text-align: center;
 }
+
+#button{
+    border: 2px solid aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+}
+
+.btn1{
+    margin-left: 5px;
+}
+
+.btn1{
+    margin-left: 5px;
+}
