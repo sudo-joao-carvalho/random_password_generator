@@ -10,8 +10,6 @@ for(var i = 0; i < upperAlphabet.length ; i++){
     lowerAlphabet[i] = lowerLetter;
 }
 
-//const generalArray = [upperAlphabet, lowerAlphabet, specialCharacters, numbers];
-
 function genPassword(){
     var passLength = 10;
     var pass = "";
